@@ -1,5 +1,4 @@
 #-*- coding:utf-8 -*-
-#asdasdadsdasdasdasd
 #CRIA ARQUIVO
 '''cria = open('arquivo.txt','w')
 
